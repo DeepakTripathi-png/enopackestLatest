@@ -1,0 +1,4 @@
+[15-Nov-2024 06:13:43 UTC] PHP Fatal error:  Trait "Maatwebsite\Excel\Concerns\Importable" not found in /home/enopeckects/public_html/app/Imports/DevicesImport.php on line 18
+[15-Nov-2024 06:13:43 UTC] PHP Fatal error:  Trait "Maatwebsite\Excel\Concerns\Importable" not found in /home/enopeckects/public_html/app/Imports/DevicesImport.php on line 18
+[15-Nov-2024 06:13:43 UTC] PHP Fatal error:  Trait "Maatwebsite\Excel\Concerns\Importable" not found in /home/enopeckects/public_html/app/Imports/DevicesImport.php on line 18
+[15-Nov-2024 06:15:28 UTC] PHP Fatal error:  Trait "Maatwebsite\Excel\Concerns\Importable" not found in /home/enopeckects/public_html/app/Imports/DevicesImport.php on line 18
